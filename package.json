@@ -1,0 +1,15 @@
+{
+  "name": "log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "log.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.qq2.ru/npm/log.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
