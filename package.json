@@ -2,7 +2,7 @@
   "name": "log",
   "version": "1.0.0",
   "description": "",
-  "main": "log.cjs",
+  "main": "src/log.cjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,5 +11,9 @@
     "url": "https://git.qq2.ru/npm/log.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.28.0"
+  }
 }
