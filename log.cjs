@@ -32,6 +32,7 @@ function getFilePath()
 
 const getFileLinesCount = (fpath) =>
 {
+   if(!fs.existsSync(fpath)) return 0
    return new Promise((resolve, reject) =>
    {
       let i

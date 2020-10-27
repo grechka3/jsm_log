@@ -1,11 +1,8 @@
 {
   "name": "jsm_log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
-  "main": "src/log.cjs",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "log.cjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/grechka3/jsm_log.git"
